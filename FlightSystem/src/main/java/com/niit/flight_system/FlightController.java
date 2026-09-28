@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @Controller
-public cclass FlightController {
+public class FlightController {
 
     @GetMapping("/")
     public String viewDashboard(Model model) {
